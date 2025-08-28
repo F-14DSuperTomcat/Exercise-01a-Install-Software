@@ -1,10 +1,11 @@
 # Exercise-01a-Install-Software
 My name is:
 
-[Your Name]
+Ryan Green
 
 My github username is:
 
-[Your Username]
+F-14DSuperTomcat
 
-BL-MSCH-C220
+
+I have installed all of the software
